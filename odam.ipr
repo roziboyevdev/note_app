@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/odam.iml" filepath="$PROJECT_DIR$/odam.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="libraryTable">
+    <library name="Dart SDK">
+      <CLASSES>
+        <root url="file://D:/dartsdk-windows-x64-release (1)/dart-sdk/lib/async" />
+        <root url="file://D:/dartsdk-windows-x64-release (1)/dart-sdk/lib/cli" />
+        <root url="file://D:/dartsdk-windows-x64-release (1)/dart-sdk/lib/collection" />
+        <root url="file://D:/dartsdk-windows-x64-release (1)/dart-sdk/lib/convert" />
+        <root url="file://D:/dartsdk-windows-x64-release (1)/dart-sdk/lib/core" />
+        <root url="file://D:/dartsdk-windows-x64-release (1)/dart-sdk/lib/developer" />
+        <root url="file://D:/dartsdk-windows-x64-release (1)/dart-sdk/lib/ffi" />
+        <root url="file://D:/dartsdk-windows-x64-release (1)/dart-sdk/lib/html" />
+        <root url="file://D:/dartsdk-windows-x64-release (1)/dart-sdk/lib/indexed_db" />
+        <root url="file://D:/dartsdk-windows-x64-release (1)/dart-sdk/lib/io" />
+        <root url="file://D:/dartsdk-windows-x64-release (1)/dart-sdk/lib/isolate" />
+        <root url="file://D:/dartsdk-windows-x64-release (1)/dart-sdk/lib/js" />
+        <root url="file://D:/dartsdk-windows-x64-release (1)/dart-sdk/lib/js_util" />
+        <root url="file://D:/dartsdk-windows-x64-release (1)/dart-sdk/lib/math" />
+        <root url="file://D:/dartsdk-windows-x64-release (1)/dart-sdk/lib/mirrors" />
+        <root url="file://D:/dartsdk-windows-x64-release (1)/dart-sdk/lib/svg" />
+        <root url="file://D:/dartsdk-windows-x64-release (1)/dart-sdk/lib/typed_data" />
+        <root url="file://D:/dartsdk-windows-x64-release (1)/dart-sdk/lib/web_audio" />
+        <root url="file://D:/dartsdk-windows-x64-release (1)/dart-sdk/lib/web_gl" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</project>
